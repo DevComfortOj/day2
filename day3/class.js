@@ -1,8 +1,8 @@
 //Declare firstName, lastName, country, city, age, isMarried, year variable and assign value to it and use the typeof operator to check different data types.
 let firstName = 'comfort'
-let lastName = 'Adams'
+let lastName = 'Ojo'
 let country = 'Nigeria'
-let city = 'Ilorin'
+let city = 'kogi'
 let age = 25
 let isMarried = 'true'
 let year = 2020
@@ -211,7 +211,7 @@ console.log(numOfSecs.getTime());
 //Your weekly earning is 1120
 
 //If the length of your name is greater than 7 say, your name is long else say your name is short.
-// let myName = "maryam"
+// let myName = "comfort"
 // let nameLength = (myName.length);
 // console.log(myName.length);
 // let nLength = (nameLength>=7? 'my name is long': 'my name is short');
